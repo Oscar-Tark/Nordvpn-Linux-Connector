@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9ED94C8F-8EF9-4EC7-906E-850B2A842D55}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Nordvpn_monitor/MainWindow.cs">
+    <Files>
+      <File FileName="Nordvpn_monitor/Program.cs" Line="7" Column="2" />
+      <File FileName="Nordvpn_monitor/MainWindow.cs" Line="13" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Nordvpn_monitor" expanded="True">
+            <Node name="Nordvpn_monitor" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Nordvpn__monitor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

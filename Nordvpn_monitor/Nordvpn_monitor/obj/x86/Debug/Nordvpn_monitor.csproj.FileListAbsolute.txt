@@ -1,0 +1,6 @@
+/home/ferret/Projects/Nordvpn_monitor/Nordvpn_monitor/bin/Debug/Nordvpn_monitor.exe
+/home/ferret/Projects/Nordvpn_monitor/Nordvpn_monitor/bin/Debug/Nordvpn_monitor.pdb
+/home/ferret/Projects/Nordvpn_monitor/Nordvpn_monitor/obj/x86/Debug/Nordvpn_monitor.csprojAssemblyReference.cache
+/home/ferret/Projects/Nordvpn_monitor/Nordvpn_monitor/obj/x86/Debug/Nordvpn_monitor.csproj.CoreCompileInputs.cache
+/home/ferret/Projects/Nordvpn_monitor/Nordvpn_monitor/obj/x86/Debug/Nordvpn_monitor.exe
+/home/ferret/Projects/Nordvpn_monitor/Nordvpn_monitor/obj/x86/Debug/Nordvpn_monitor.pdb
